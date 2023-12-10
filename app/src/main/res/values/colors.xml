@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="udm_green">#1c4226</color>
+    <color name="udm_green_light">#338047</color>
+    <color name="udm_peach">#fcffb3</color>
+    <color name="theme_grey">#2B2B2B</color>
+    <color name="theme_grey_dark">#202020</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_faded">#A3FFFFFF</color>
+    <color name="clear">#00B1B1B1</color>
+</resources>
